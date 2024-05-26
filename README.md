@@ -1,8 +1,7 @@
 
 <a href="https://confirmed-baritone-e12.notion.site/MAKE-FROG-815a185d29ef4b6295557f586b7846bd?pvs=4">👉 노션 리쿠르팅 페이지<a/> 
 
-
-![image.png](..%2F..%2FDesktop%2Fimage.png)
+![image](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/7b8a61f9-feda-4ff2-83a5-685509ed052c)
 
 구글 폼 👉  https://forms.gle/ZPbwYvYi5DeWuf7s6
 
@@ -15,7 +14,8 @@
 
 1년 전쯤, 졸업을 앞두고 있는 각 분야의 취준생들이 모여 사이드 프로젝트를 시작했습니다. 총 2개의 서비스를 성공적으로 출시하였고, 운이 좋게 팀원 모두 각자 원하는 기업에 취업 할 수 있었어요.
 
-![app.png](..%2F..%2FDesktop%2Fapp.png)
+![app](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/cdc1710e-cd5e-4519-aeb8-ceffb2b5aff7)
+
 
 그리고 시간이 지나 최근까지 팀원 모두 각자 현업에 집중하느라 서비스를 적극적으로 운영하지 못하고 있었지만, 이제 틈틈이 시간을 내어 서비스를 MAKE FROG의 서비스들을 스케일업 계획을 가지고 있습니다. 기존에는 단순히 서비스 론칭을 하는 것에 중점을 두었다면, 이제는 <span style="color:green">숫자</span>로 확인가능하며 <span style="color:green">추적 가능한 목표</span>를 세우고 달성하려고 합니다.
 
@@ -42,7 +42,8 @@
 
 2.**꽤 준수한 리텐션**
 
-![32.png](..%2F..%2FDesktop%2F32.png)
+![32](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/9044a36f-7d33-4b84-9c79-ec710ebd9446)
+
 
 별도의 마케팅을 진행하지 않았음에도, 저희는 내부적으로 꽤 준수한 지표를 가지고 있다고 판단하고 있습니다. 특히 올해 3월에 배포한 테크톡 어플의 경우 높은 리텐션을 달성하고 있습니다. 종종 지인으로부터 저희가 만든 서비스 대한 소식을 듣는데  뿌뜻함을 느끼곤 한답니다.
 
@@ -63,7 +64,8 @@
 
 저희는 이러한 학습 방법을 개구리를 이해하는 과정에 비유하곤 합니다.
 
-![frog.jpeg](..%2F..%2FDesktop%2Ffrog.jpeg)
+![frog](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/17e5c246-4e60-42c6-8802-4e814e2c997b)
+
 
 개구리를 이해하기 위해서는 개구리 자체를 해부하는 것도 하나의 방법이겠죠. 서적 및 강의를 보거나 다른 사람이 작성한 작업물을 클론(개발, 디자인)해보는 것이 개구리를 해부하는 과정에 속합니다. 하지만 이러한 과정은 스스로 고민할 수 있는 부분이 많이 제한되고 폭발적으로 성장하는 데 걸림돌이 될 수 있습니다.
 
@@ -138,7 +140,8 @@
 <br/>
 
 ## 마일스톤
-![mile.png](..%2F..%2FDesktop%2Fmile.png)
+![mile](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/8b60f4a1-e100-415d-8b91-80886354dad9)
+
 
 
 <br/>
@@ -147,7 +150,8 @@
 
 ### 1. Plotz (플롯츠)
 
-![plotz.png](..%2F..%2FDesktop%2Fplotz.png)
+![plotz](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/3d2cf16b-64f9-4db4-9097-2e108c4938d2)
+
 
 Plotz는 유튜브에 넘쳐나는 서머리 콘텐츠(영화&드라마 리뷰 영상)를  분류하여 유저에게 큐레이션 해주는 서비스 입니다. OTT 서비스를 대체할 만큼 간편한 영화 드라마 콘텐츠 소비 경험을 제공하자는 비전을 가지고 있습니다.
 
@@ -155,7 +159,8 @@ Plotz는 유튜브에 넘쳐나는 서머리 콘텐츠(영화&드라마 리뷰 �
 
 ### 2. 테크톡
 
-![2.png](..%2F..%2FDesktop%2F2.png)
+![2](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/8c15aac4-a2a6-46c7-a034-36afc17726b1)
+
 
 테크톡은 IT 취업을 준비하고 있는 취준생들을 대상으로 기술 면접을 도와주는 서비스 입니다. AI 면접, 오답 및 기술 노트 등의 기능들을 기반으로 유저의 기술 면접을 효과적으로 대비할 수 있게 도와줍니다.
 
@@ -163,7 +168,8 @@ Plotz는 유튜브에 넘쳐나는 서머리 콘텐츠(영화&드라마 리뷰 �
 
 ### 3. 신규 프로젝트
 
-![new.jpg](..%2F..%2FDesktop%2Fnew.jpg)
+![new](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/465db461-0c88-44ec-9028-2f23288bf265)
+
 
 새로운 프로젝트 준비하고 있습니다.
 
@@ -172,8 +178,8 @@ Plotz는 유튜브에 넘쳐나는 서머리 콘텐츠(영화&드라마 리뷰 �
 스프린트 방식으로 프로젝트를 진행합니다.
 
 
-![sprint.jpeg](..%2F..%2FDesktop%2Fsprint.jpeg)
-![sprint2.jpeg](..%2F..%2FDesktop%2Fsprint2.jpeg)
+![sprint](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/89b033d4-1f84-490e-8a1e-0733714fe4b1)
+![sprint2](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/c958a733-e6d9-4238-8d32-7f2d306b1bc3)
 
 
 ## 팀원 소개
@@ -181,8 +187,9 @@ Plotz는 유튜브에 넘쳐나는 서머리 콘텐츠(영화&드라마 리뷰 �
 
 > 🎨 개발자 중에서는 내가 디자인 1등!
 
+<img width="117" alt="ximya" src="https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/39bb0d30-36d5-41b9-a3f4-292e6ac50217">
 
-![ximya.png](..%2F..%2FDesktop%2Fximya.png)
+
 
 ### **심야**
 개발자
@@ -195,7 +202,8 @@ Plotz는 유튜브에 넘쳐나는 서머리 콘텐츠(영화&드라마 리뷰 �
 
 > 🏃‍♀️ 다이어트 성공 신화의 주인공
 
-![song.png](..%2F..%2FDesktop%2Fsong.png)
+![song](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/4280f3b6-69db-4d3a-87da-833070ea9c70)
+
 
 ## **송송**
 프로덕트 디자이너
@@ -208,7 +216,9 @@ Plotz는 유튜브에 넘쳐나는 서머리 콘텐츠(영화&드라마 리뷰 �
 > 🫠 신입으로 PM 직무에 취업한 사람이 있다?!
 
 
-![rat.png](..%2F..%2FDesktop%2Frat.png)
+![rat](https://github.com/MakeFrog/-MAKE-FROG-Flutter-/assets/75591730/f966b59d-7610-4a5f-ba50-bc9b0cb00dd8)
+
+
 ### **땃쥐**
 
 PM / PO
@@ -224,7 +234,7 @@ PM / PO
 
 고민하지 말고 지원해주세요! 함께 정말 재미있게 프로젝트 진행해 보아요 :)
 
----
+
 
 문의사항이 있으시면 아래 메일로 편하게 여쭤봐주세요 ☺️
 
